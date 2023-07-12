@@ -1,0 +1,8 @@
+1- Sistemin hatasını çözelim.
+2- Sınıflara parçalayalım.
+3- Validasyon işlemini kendi düşünce yapınıza göre yeniden düzenleyin.
+
+
+
+
+
